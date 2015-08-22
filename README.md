@@ -1,21 +1,16 @@
 # Windows-10-Universal-Apps-Samples
 Basic samples of Windows 10 Universal Application Development using c# in Visual Studio 2015
-Samples includes basic usage of 
--------------------------------
-Adaptive UI
--------------------------------
+Samples includes basic usage of Adaptive UI
 1. Responsive design
-  a) Flexible layout responds to small changes
-  b) Many controls handles basic responsiveness
-2) Adaptive design
-  a) Small layout adjusts to large changes
-  b) Features like visual states, triggers aid in this design
+1.1 Flexible layout responds to small changes
+1.2 Many controls handles basic responsiveness
+2. Adaptive design
+2.1 Small layout adjusts to large changes
+2.2 Features like visual states, triggers aid in this design
 3. Tailored design
-  a) device-specific app can simplify design
-------------------------------
-Adaptive Code
-------------------------------
-1) A compatible binary across devices
-  a) Universal API with device specific implementation
+3.1 device-specific app can simplify design
+4. Adaptive Code
+4.1 A compatible binary across devices
+4.2 Universal API with device specific implementation
 
 
